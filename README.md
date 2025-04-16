@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Selamawit Gebreyohannes
 ===============================================================================================================================================
 
-http://myportfoli.com
+https://github.com/Selamawit-G/Portfolio
 ---------------------
 
 Aspiring Data Analyst with a focus on statistical analysis, data visualization, and database management. Currently enhancing data proficiency through the Digital Skills Bootcamp. Background in Electrical and Computer Engineering with 3+ years of professional experience in Information & Technology Transfer and Network Engineering, applying strong analytical thinking, problem-solving, and systems expertise. Eager to apply technical and data skills in real-world, data-driven projects.
