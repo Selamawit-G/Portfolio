@@ -8,6 +8,7 @@ Aspiring Data Analyst with a focus on statistical analysis, data visualization, 
 
 * 🌍  I'm based in United Kingdom
 * ✉️  You can contact me at [gebreyohannes.selamawit@gmail.com](mailto:gebreyohannes.selamawit@gmail.com)
+  
 
 ### Skills
 
