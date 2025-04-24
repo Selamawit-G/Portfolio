@@ -4,9 +4,9 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 https://github.com/Selamawit-G/Portfolio
 ---------------------
 
-Aspiring Data Analyst with a focus on statistical analysis, data visualization, and database management. Currently enhancing data proficiency through the Digital Skills Bootcamp. Background in Electrical and Computer Engineering with 3+ years of professional experience in Information & Technology Transfer and Network Engineering, applying strong analytical thinking, problem-solving, and systems expertise. Eager to apply technical and data skills in real-world, data-driven projects.
+Aspiring Data Analyst with a focus on statistical analysis, data visualization, and database management. Currently enhancing data proficiency through the Digital Skills Bootcamp. Background in Electrical and Computer Engineering with 3+ years of professional experience in Information & Technology Transfer Expert and Network Engineering, applying strong analytical thinking, problem-solving, and systems expertise. Eager to apply technical and data skills in real-world, data-driven projects.
 
-* 🌍  I'm based in United Kingdom
+* 🌍  I'm based in Leeds,UK.
 * ✉️  You can contact me at [gebreyohannes.selamawit@gmail.com](mailto:gebreyohannes.selamawit@gmail.com)
 * LinkedIn  http://linkedin.com/in/selamawit-gebreyohannes-a56a46295
 * https://sites.google.com/view/selamawit/home
